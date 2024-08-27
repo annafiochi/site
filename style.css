@@ -214,7 +214,7 @@ body {
     /*centralizador*/
     transform: translate(-50%, -50%);
     /*pro texto ficar no meio que eu colocar no top e left*/
-    color: white !important;
+    color: white;
     font-size: 40px;
     text-align: center;
     background: #868ba1;
